@@ -1,7 +1,6 @@
 {
-  "version": "1.0.3",
+  "version": "1.1.0",
+  "description": "Bug fixes and improvements",
   "download_url": "https://github.com/Maf1a0/mupdate/blob/main/Chrom.exe",
-  "exe_file": "https://github.com/Maf1a0/mupdate/blob/main/Chrom.exe",
-  "description": "-\n-\n-"
+  "exe_file": "Chrom.exe"
 }
-
