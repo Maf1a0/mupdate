@@ -1,5 +1,20 @@
 {
-  "activations": [],
-  "last_updated": "2026-03-21 03:35:37",
-  "total_activations": 0
+  "activations": [
+    {
+      "username": "MaF1a",
+      "mac_address": "18-A9-05-B3-92-F5",
+      "activation_date": "2026-03-21",
+      "expiry_date": "2026-03-22",
+      "duration_days": 1
+    },
+    {
+      "username": "Maf1a",
+      "mac_address": "18:A9:05:B3:92:F5",
+      "activation_date": "2026-03-21",
+      "expiry_date": "2027-03-21",
+      "duration_days": 365
+    }
+  ],
+  "last_updated": "2026-03-21 03:36:22",
+  "total_activations": 2
 }
