@@ -1,13 +1,4 @@
 {
-  "activations": [
-    {
-      "username": "MaF1a",
-      "mac_address": "18:A9:05:B3:92:F5",
-      "activation_date": "2026-03-21 22:30:21",
-      "expiry_date": "2026-03-28 22:30:21",
-      "duration_days": 7.0,
-      "status": "online"
-    }
-  ],
-  "last_updated": "2026-03-21 22:30:21"
+  "activations": [],
+  "last_updated": "2026-03-21 22:36:44"
 }
