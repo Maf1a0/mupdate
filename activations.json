@@ -1,13 +1,13 @@
 {
   "activations": [
     {
-      "username": "Tom1",
-      "mac_address": "DC:4A:3E:69:1E:8D",
-      "activation_date": "2026-03-21 17:01:17",
+      "username": "Beno",
+      "mac_address": "AA:8F:5D:60:3E:6F",
+      "activation_date": "2026-03-21 17:02:48",
       "expiry_date": "Lifetime",
       "duration_days": 99999.0,
       "status": "online"
     }
   ],
-  "last_updated": "2026-03-21 17:01:17"
+  "last_updated": "2026-03-21 17:02:48"
 }
