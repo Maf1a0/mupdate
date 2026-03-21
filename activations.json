@@ -1,29 +1,13 @@
 {
   "activations": [
     {
-      "username": "Beno",
-      "mac_address": "AA:8F:5D:60:3E:6F",
-      "activation_date": "2026-03-21 17:02:48",
-      "expiry_date": "Lifetime",
-      "duration_days": 99999.0,
-      "status": "online"
-    },
-    {
       "username": "Tom1",
       "mac_address": "DC:4A:3E:69:1E:8D",
       "activation_date": "2026-03-21 17:04:35",
       "expiry_date": "Lifetime",
       "duration_days": 99999.0,
       "status": "online"
-    },
-    {
-      "username": "Ma",
-      "mac_address": "18:A9:05:B3:92:F5",
-      "activation_date": "2026-03-21 17:12:29",
-      "expiry_date": "2026-03-28 17:12:29",
-      "duration_days": 7.0,
-      "status": "online"
     }
   ],
-  "last_updated": "2026-03-21 17:12:29"
+  "last_updated": "2026-03-21 17:13:45"
 }
