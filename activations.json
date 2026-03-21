@@ -1,1 +1,13 @@
-
+{
+  "activations": [
+    {
+      "username": "User_B392F5",
+      "mac_address": "18-A9-05-B3-92-F5",
+      "activation_date": "2026-03-21",
+      "expiry_date": "LIFETIME",
+      "duration_days": 99999
+    }
+  ],
+  "last_updated": "2026-03-21 04:27:10",
+  "total_activations": 1
+}
