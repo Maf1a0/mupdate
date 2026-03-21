@@ -13,7 +13,14 @@
       "activation_date": "2026-03-21",
       "expiry_date": "مدى الحياة",
       "duration_days": 99999
+    },
+    {
+      "username": "Beno",
+      "mac_address": "AA:8F:5D:60:3E:6F",
+      "activation_date": "2026-03-21",
+      "expiry_date": "مدى الحياة",
+      "duration_days": 99999
     }
   ],
-  "last_updated": "2026-03-21 07:43:43"
+  "last_updated": "2026-03-21 14:46:25"
 }
