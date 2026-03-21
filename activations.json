@@ -1,7 +1,7 @@
 {
   "activations": [
     {
-      "username": "MaF1a",
+      "username": "Ahmed",
       "mac_address": "18:A9:05:B3:92:F5",
       "activation_date": "2026-03-21 18:05:06",
       "expiry_date": "Lifetime",
@@ -9,5 +9,5 @@
       "status": "online"
     }
   ],
-  "last_updated": "2026-03-21 18:05:06"
+  "last_updated": "2026-03-21 18:05:55"
 }
