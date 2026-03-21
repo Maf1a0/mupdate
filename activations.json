@@ -6,7 +6,15 @@
       "activation_date": "2026-03-21",
       "expiry_date": "2026-03-22",
       "duration_days": 1
+    },
+    {
+      "username": "MaF1a",
+      "mac_address": "18:A9:05:B3:92:F5",
+      "activation_date": "2026-03-21 20:44:58",
+      "expiry_date": "2026-03-21 22:44:29",
+      "duration_days": 0.083,
+      "status": "online"
     }
   ],
-  "last_updated": "2026-03-21 20:41:42"
+  "last_updated": "2026-03-21 20:44:58"
 }
