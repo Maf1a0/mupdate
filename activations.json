@@ -39,7 +39,15 @@
       "expiry_date": "Lifetime",
       "duration_days": 99999.0,
       "status": "online"
+    },
+    {
+      "username": "Joo",
+      "mac_address": "6C:3B:E5:1E:CE:E8",
+      "activation_date": "2026-03-22 04:54:26",
+      "expiry_date": "2027-03-22 04:54:26",
+      "duration_days": 365.0,
+      "status": "online"
     }
   ],
-  "last_updated": "2026-03-22 04:54:25"
+  "last_updated": "2026-03-22 04:54:26"
 }
