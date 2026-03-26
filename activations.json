@@ -4,8 +4,8 @@
       "username": "MaF1a",
       "mac_address": "18:A9:05:B3:92:F5",
       "activation_date": "2026-03-21 23:17:22",
-      "expiry_date": "Lifetime",
-      "duration_days": 99999.0,
+      "expiry_date": "2026-03-27 01:11:35",
+      "duration_days": 0.083,
       "status": "online"
     },
     {
@@ -65,5 +65,5 @@
       "status": "online"
     }
   ],
-  "last_updated": "2026-03-22 23:36:42"
+  "last_updated": "2026-03-26 23:12:03"
 }
