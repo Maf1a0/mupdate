@@ -71,7 +71,15 @@
       "expiry_date": "Lifetime",
       "duration_days": 99999.0,
       "status": "online"
+    },
+    {
+      "username": "Inzo",
+      "mac_address": "D8:5E:D3:25:5B:37",
+      "activation_date": "2026-03-27 00:47:49",
+      "expiry_date": "Lifetime",
+      "duration_days": 99999.0,
+      "status": "online"
     }
   ],
-  "last_updated": "2026-03-27 00:42:18"
+  "last_updated": "2026-03-27 00:47:49"
 }
