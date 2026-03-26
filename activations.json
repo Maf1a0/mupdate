@@ -4,7 +4,7 @@
       "username": "MaF1a",
       "mac_address": "18:A9:05:B3:92:F5",
       "activation_date": "2026-03-21 23:17:22",
-      "expiry_date": "2026-03-27 01:11:35",
+      "expiry_date": "2026-03-27 02:34:35",
       "duration_days": 0.083,
       "status": "online"
     },
@@ -67,11 +67,11 @@
     {
       "username": "Asem",
       "mac_address": "18:60:24:A0:9B:79",
-      "activation_date": "2026-03-27 00:37:06",
+      "activation_date": "2026-03-27 00:38:23",
       "expiry_date": "Lifetime",
       "duration_days": 99999.0,
       "status": "online"
     }
   ],
-  "last_updated": "2026-03-27 00:37:06"
+  "last_updated": "2026-03-27 00:38:23"
 }
