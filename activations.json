@@ -87,7 +87,15 @@
       "expiry_date": "Lifetime",
       "duration_days": 99999.0,
       "status": "online"
+    },
+    {
+      "username": "~Ar!zona?",
+      "mac_address": "48:0F:CF:5B:06:CA",
+      "activation_date": "2026-03-28 22:24:44",
+      "expiry_date": "Lifetime",
+      "duration_days": 99999.0,
+      "status": "online"
     }
   ],
-  "last_updated": "2026-03-27 15:45:43"
+  "last_updated": "2026-03-28 22:24:44"
 }
