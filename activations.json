@@ -9,6 +9,14 @@
       "status": "online"
     },
     {
+      "username": "Beno",
+      "mac_address": "AA:8F:5D:60:3E:6F",
+      "activation_date": "2026-03-21 23:21:48",
+      "expiry_date": "Lifetime",
+      "duration_days": 99999.0,
+      "status": "online"
+    },
+    {
       "username": "ToMSoN",
       "mac_address": "DC:4A:3E:69:1E:8D",
       "activation_date": "2026-03-21 23:28:00",
@@ -73,14 +81,6 @@
       "status": "online"
     },
     {
-      "username": "G3edy",
-      "mac_address": "D7:EA:86:B0:31:EC",
-      "activation_date": "2026-03-27 15:45:43",
-      "expiry_date": "Lifetime",
-      "duration_days": 99999.0,
-      "status": "online"
-    },
-    {
       "username": "Gerges",
       "mac_address": "48:0F:CF:5B:06:CA",
       "activation_date": "2026-03-28 22:24:44",
@@ -97,5 +97,5 @@
       "status": "online"
     }
   ],
-  "last_updated": "2026-04-01 11:04:43"
+  "last_updated": "2026-04-01 11:04:47"
 }
