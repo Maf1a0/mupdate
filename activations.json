@@ -87,6 +87,14 @@
       "expiry_date": "Lifetime",
       "duration_days": 99999.0,
       "status": "online"
+    },
+    {
+      "username": "المعلم قطلر بليندرز",
+      "mac_address": "98:F8:9C:92:33:A8",
+      "activation_date": "2026-03-28 22:24:44",
+      "expiry_date": "Lifetime",
+      "duration_days": 99999.0,
+      "status": "online"
     }
   ],
   "last_updated": "2026-04-01 11:15:57"
