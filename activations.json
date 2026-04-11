@@ -111,15 +111,4 @@
       "expiry_date": "Lifetime",
       "duration_days": 99999.0,
       "status": "online"
-    }, 
-    } 
-      "username": "7amO",
-      "mac_address": "1C:1B:0D:A2:F3:AA",
-      "activation_date": "2026-04-05 23:52:29",
-      "expiry_date": "Lifetime",
-      "duration_days": 99999.0,
-      "status": "online"
-    } 
-  ],
-  "last_updated": "2026-04-05 23:52:29"
-}
+    }
