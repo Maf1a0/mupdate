@@ -119,6 +119,22 @@
       "expiry_date": "Lifetime",
       "duration_days": 99999.0,
       "status": "online"
+    },
+    {
+      "username": "EL.Disal",
+      "mac_address": "2C:F0:5D:78:29:0E",
+      "activation_date": "2026-04-08 21:52:29",
+      "expiry_date": "Lifetime",
+      "duration_days": 99999.0,
+      "status": "online"
+    },
+    {
+      "username": "AL.Amricane",
+      "mac_address": "18:C0:4D:CC:CF:BF",
+      "activation_date": "2026-04-09 23:52:29",
+      "expiry_date": "Lifetime",
+      "duration_days": 99999.0,
+      "status": "online"
     }
   ],
   "last_updated": "2026-04-05 23:52:29"
