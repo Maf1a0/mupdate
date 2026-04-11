@@ -1,4 +1,4 @@
-    {
+{
   "activations": [
     {
       "username": "MaF1a",
@@ -105,14 +105,21 @@
       "status": "online"
     },
     {
-      "username": " SAAFAN",
-      "mac_address": "99:A6:4F:BB:4C:DD",
-      "activation_date": "2026-04-05 23:52:29",
+      "username": "",
+      "mac_address": "",
+      "activation_date": "",
       "expiry_date": "Lifetime",
       "duration_days": 99999.0,
-      "status": "online" 
+      "status": "online"
+    },
+    {
+      "username": "",
+      "mac_address": "",
+      "activation_date": "",
+      "expiry_date": "Lifetime",
+      "duration_days": 99999.0,
+      "status": "online"
     }
-    ],  
-    "last_updated": "2026-04-05 23:52:29"
-    [
-
+  ],
+  "last_updated": "2026-04-05 23:52:29"
+}
