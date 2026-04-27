@@ -135,7 +135,15 @@
       "expiry_date": "Lifetime",
       "duration_days": 99999.0,
       "status": "online"
-    }
+    },
+    {
+      "username": "Darkness",
+      "mac_address": "C8:F7:50:2F:0B:67",
+      "activation_date": "2026-04-11 23:52:29",
+      "expiry_date": "Lifetime",
+      "duration_days": 99999.0,
+      "status": "online"
+    } 
   ],
   "last_updated": "2026-04-05 23:52:29"
 }
