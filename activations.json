@@ -89,6 +89,14 @@
       "status": "online"
     },
     {
+      "username": "المعلم قطلر بليندرز",
+      "mac_address": "98:F8:9C:92:33:A8",
+      "activation_date": "2026-03-28 22:24:44",
+      "expiry_date": "Lifetime",
+      "duration_days": 99999.0,
+      "status": "online"
+    },
+    {
       "username": "-7M",
       "mac_address": "A0:8C:FD:DE:98:00",
       "activation_date": "2026-04-05 23:52:29",
@@ -151,7 +159,15 @@
       "expiry_date": "Lifetime",
       "duration_days": 99999,
       "status": "online"
+    },
+    {
+      "username": "wewe",
+      "mac_address": "C4:75:AB:BB:00:08",
+      "activation_date": "2026-04-28 12:23:01",
+      "expiry_date": "Lifetime",
+      "duration_days": 99999,
+      "status": "online"
     }
   ],
-  "last_updated": "2026-04-28 12:21:41"
+  "last_updated": "2026-04-28 12:23:01"
 }
