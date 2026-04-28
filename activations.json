@@ -148,16 +148,8 @@
       "username": "ggg",
       "mac_address": "F9:A0:A0:4D:40:85",
       "activation_date": "2026-04-28 11:49:02",
-      "expiry_date": "Lifetime",
-      "duration_days": 99999,
-      "status": "online"
-    },
-    {
-      "username": "wewe",
-      "mac_address": "C4:75:AB:BB:00:08",
-      "activation_date": "2026-04-28 12:23:01",
-      "expiry_date": "Lifetime",
-      "duration_days": 99999,
+      "expiry_date": "2026-04-28 17:43:59",
+      "duration_days": 0.041666666666666664,
       "status": "online"
     },
     {
@@ -169,5 +161,5 @@
       "status": "online"
     }
   ],
-  "last_updated": "2026-04-28 16:41:29"
+  "last_updated": "2026-04-28 16:43:59"
 }
