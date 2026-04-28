@@ -151,7 +151,15 @@
       "expiry_date": "2026-04-29 10:24:05",
       "duration_days": 1.0,
       "status": "online"
+    },
+    {
+      "username": "ggg",
+      "mac_address": "F9:A0:A0:4D:40:85",
+      "activation_date": "2026-04-28 11:49:02",
+      "expiry_date": "Lifetime",
+      "duration_days": 99999,
+      "status": "online"
     }
   ],
-  "last_updated": "2026-04-28 10:24:05"
+  "last_updated": "2026-04-28 11:49:02"
 }
