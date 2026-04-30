@@ -140,8 +140,8 @@
       "username": "landless",
       "mac_address": "C0:A5:E8:A3:82:E7",
       "activation_date": "2026-04-28 23:52:29",
-      "expiry_date": "2026-04-29 10:24:05",
-      "duration_days": 1.0,
+      "expiry_date": "Lifetime",
+      "duration_days": 99999,
       "status": "online"
     },
     {
@@ -153,5 +153,5 @@
       "status": "online"
     }
   ],
-  "last_updated": "2026-04-30 11:12:35"
+  "last_updated": "2026-04-30 11:12:45"
 }
