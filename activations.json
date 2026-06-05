@@ -175,7 +175,15 @@
       "expiry_date": "2026-06-12 11:18:08",
       "duration_days": 7.0,
       "status": "online"
+    },
+    {
+      "username": "21",
+      "mac_address": "B3:D9:C2:B1:65:32",
+      "activation_date": "2026-06-05 19:39:58",
+      "expiry_date": "2026-06-12 19:39:58",
+      "duration_days": 7.0,
+      "status": "online"
     }
   ],
-  "last_updated": "2026-06-05 11:18:08"
+  "last_updated": "2026-06-05 19:39:58"
 }
