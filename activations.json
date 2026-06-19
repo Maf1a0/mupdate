@@ -169,14 +169,6 @@
       "status": "online"
     },
     {
-      "username": "000000",
-      "mac_address": "85:AA:38:8A:A9:E1",
-      "activation_date": "2026-06-05 11:18:08",
-      "expiry_date": "2026-06-12 11:18:08",
-      "duration_days": 7.0,
-      "status": "online"
-    },
-    {
       "username": "21",
       "mac_address": "B3:D9:C2:B1:65:32",
       "activation_date": "2026-06-05 19:39:58",
@@ -207,15 +199,7 @@
       "expiry_date": "2026-06-26 00:08:16",
       "duration_days": 7.0,
       "status": "online"
-    },
-    {
-      "username": "231312213",
-      "mac_address": "B0:C7:70:73:C6:7C",
-      "activation_date": "2026-06-19 09:48:36",
-      "expiry_date": "2026-06-26 09:48:36",
-      "duration_days": 7.0,
-      "status": "online"
     }
   ],
-  "last_updated": "2026-06-19 09:48:36"
+  "last_updated": "2026-06-19 09:53:17"
 }
