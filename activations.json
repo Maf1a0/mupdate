@@ -177,14 +177,6 @@
       "status": "online"
     },
     {
-      "username": "123444",
-      "mac_address": "D2:52:F9:65:79:BB",
-      "activation_date": "2026-06-14 22:15:35",
-      "expiry_date": "2026-06-21 22:15:35",
-      "duration_days": 7.0,
-      "status": "online"
-    },
-    {
       "username": "assdw",
       "mac_address": "C0:21:B7:22:8C:0F",
       "activation_date": "2026-06-19 00:08:16",
@@ -201,5 +193,5 @@
       "status": "online"
     }
   ],
-  "last_updated": "2026-06-19 09:53:46"
+  "last_updated": "2026-06-19 09:53:57"
 }
