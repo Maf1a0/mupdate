@@ -167,7 +167,4 @@
       "expiry_date": "Lifetime",
       "duration_days": 99999,
       "status": "online"
-    },
-  ],
-  "last_updated": "2026-06-22 22:24:13"
-}
+    }
