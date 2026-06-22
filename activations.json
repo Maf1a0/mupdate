@@ -169,14 +169,6 @@
       "status": "online"
     },
     {
-      "username": "3213213132131",
-      "mac_address": "C4:6A:B4:56:3B:84",
-      "activation_date": "2026-06-20 22:09:23",
-      "expiry_date": "Lifetime",
-      "duration_days": 99999,
-      "status": "online"
-    },
-    {
       "username": "asdpop",
       "mac_address": "FA:FB:41:27:73:05",
       "activation_date": "2026-06-22 11:00:02",
@@ -185,5 +177,5 @@
       "status": "online"
     }
   ],
-  "last_updated": "2026-06-22 11:00:15"
+  "last_updated": "2026-06-22 11:00:19"
 }
