@@ -223,7 +223,15 @@
       "expiry_date": "2026-07-11 11:13:19",
       "duration_days": 7.0,
       "status": "online"
+    },
+    {
+      "username": "sadasd",
+      "mac_address": "D3:82:3F:CA:DA:54",
+      "activation_date": "2026-07-04 19:04:44",
+      "expiry_date": "2026-07-11 19:04:44",
+      "duration_days": 7.0,
+      "status": "online"
     }
   ],
-  "last_updated": "2026-07-04 11:13:19"
+  "last_updated": "2026-07-04 19:04:44"
 }
