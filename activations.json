@@ -201,14 +201,6 @@
       "status": "online"
     },
     {
-      "username": "3333",
-      "mac_address": "C4:75:AB:BB:00:0C",
-      "activation_date": "2026-06-30 20:20:46",
-      "expiry_date": "2026-07-07 20:20:46",
-      "duration_days": 7.0,
-      "status": "online"
-    },
-    {
       "username": "M2",
       "mac_address": "00:24:7E:0B:1E:0E",
       "activation_date": "2026-07-05 14:09:19",
@@ -233,5 +225,5 @@
       "status": "online"
     }
   ],
-  "last_updated": "2026-07-09 23:27:34"
+  "last_updated": "2026-07-09 23:27:38"
 }
