@@ -247,7 +247,15 @@
       "expiry_date": "Lifetime",
       "duration_days": 99999,
       "status": "online"
+    },
+    {
+      "username": "Endrick",
+      "mac_address": "EC:1C:6C:7A:68:CB",
+      "activation_date": "2026-07-08 19:43:36",
+      "expiry_date": "Lifetime",
+      "duration_days": 99999,
+      "status": "online"
     }
   ],
-  "last_updated": "2026-07-08 19:38:07"
+  "last_updated": "2026-07-08 19:43:36"
 }
