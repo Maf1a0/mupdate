@@ -231,7 +231,15 @@
       "expiry_date": "2026-07-21 23:46:21",
       "duration_days": 7.0,
       "status": "online"
+    },
+    {
+      "username": "3m abok",
+      "mac_address": "C4:75:AB:BB:00:0C",
+      "activation_date": "2026-07-16 10:59:11",
+      "expiry_date": "2026-07-23 10:59:11",
+      "duration_days": 7.0,
+      "status": "online"
     }
   ],
-  "last_updated": "2026-07-14 23:46:21"
+  "last_updated": "2026-07-16 10:59:11"
 }
